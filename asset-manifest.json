@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simpleMemes/static/css/main.523f09c5.chunk.css",
+    "main.js": "/simpleMemes/static/js/main.2b27603e.chunk.js",
+    "main.js.map": "/simpleMemes/static/js/main.2b27603e.chunk.js.map",
+    "runtime-main.js": "/simpleMemes/static/js/runtime-main.a612d8e8.js",
+    "runtime-main.js.map": "/simpleMemes/static/js/runtime-main.a612d8e8.js.map",
+    "static/js/2.ac1b1031.chunk.js": "/simpleMemes/static/js/2.ac1b1031.chunk.js",
+    "static/js/2.ac1b1031.chunk.js.map": "/simpleMemes/static/js/2.ac1b1031.chunk.js.map",
+    "index.html": "/simpleMemes/index.html",
+    "precache-manifest.147ca17ae61a2b0783e7b2bb227e81d8.js": "/simpleMemes/precache-manifest.147ca17ae61a2b0783e7b2bb227e81d8.js",
+    "service-worker.js": "/simpleMemes/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/simpleMemes/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.ac1b1031.chunk.js.LICENSE.txt": "/simpleMemes/static/js/2.ac1b1031.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a612d8e8.js",
+    "static/js/2.ac1b1031.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.2b27603e.chunk.js"
+  ]
+}
